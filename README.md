@@ -2,9 +2,9 @@
 
 Activity's instructions:
 
-Open Eclipse or another Java IDE and create a new class.
+Open Eclipse or another Java IDE and create a new class with a Main Method.
 
-Copy the following Main Method and paste it in you class.
+Copy the following Main Method and paste it in you class, replacing the one inside of it.
 
 	 public static void main(String[] args) {
 	        ArrayList<Integer> list = new ArrayList();
